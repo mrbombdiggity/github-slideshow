@@ -1,6 +1,0 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-#Yabba Dabba Do
-Use the left arrow to go back!
